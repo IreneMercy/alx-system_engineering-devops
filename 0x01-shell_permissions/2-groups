@@ -1,2 +1,2 @@
 #!/bin/bash
-group root
+group ./2-groups
